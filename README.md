@@ -1,6 +1,6 @@
 # E-vents built with Gridsome and Strapi
 
-source: 
+source:\
 https://github.com/gwenf/gridsome-strapi-tutorial
 https://www.youtube.com/watch?v=vB6rmWCmANA&t=3221s
 -----
